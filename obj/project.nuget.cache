@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CiIVefbkfTYSkpoxvP2251ADbx8YFfUqeCo2FvwvNwgZuF6Ul9ZVH840IXcTuTYubcms2Tct0otAwPFY2iGB2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Projektit\\Assistants\\Assistants.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lauri\\.nuget\\packages\\openai-dotnet\\7.7.4\\openai-dotnet.7.7.4.nupkg.sha512"
+  ],
+  "logs": []
+}

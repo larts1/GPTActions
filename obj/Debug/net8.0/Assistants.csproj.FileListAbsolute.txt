@@ -1,0 +1,17 @@
+C:\Projektit\Assistants\bin\Debug\net8.0\Assistants.exe
+C:\Projektit\Assistants\bin\Debug\net8.0\Assistants.deps.json
+C:\Projektit\Assistants\bin\Debug\net8.0\Assistants.runtimeconfig.json
+C:\Projektit\Assistants\bin\Debug\net8.0\Assistants.dll
+C:\Projektit\Assistants\bin\Debug\net8.0\Assistants.pdb
+C:\Projektit\Assistants\bin\Debug\net8.0\OpenAI-DotNet.dll
+C:\Projektit\Assistants\obj\Debug\net8.0\Assistants.csproj.AssemblyReference.cache
+C:\Projektit\Assistants\obj\Debug\net8.0\Assistants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projektit\Assistants\obj\Debug\net8.0\Assistants.AssemblyInfoInputs.cache
+C:\Projektit\Assistants\obj\Debug\net8.0\Assistants.AssemblyInfo.cs
+C:\Projektit\Assistants\obj\Debug\net8.0\Assistants.csproj.CoreCompileInputs.cache
+C:\Projektit\Assistants\obj\Debug\net8.0\Assistants.csproj.Up2Date
+C:\Projektit\Assistants\obj\Debug\net8.0\Assistants.dll
+C:\Projektit\Assistants\obj\Debug\net8.0\refint\Assistants.dll
+C:\Projektit\Assistants\obj\Debug\net8.0\Assistants.pdb
+C:\Projektit\Assistants\obj\Debug\net8.0\Assistants.genruntimeconfig.cache
+C:\Projektit\Assistants\obj\Debug\net8.0\ref\Assistants.dll
