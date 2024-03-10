@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assistants", "Assistants.csproj", "{0A2EE563-3A62-4AED-B56C-8B36E698F183}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assistants", "Actions\Assistants.csproj", "{0A2EE563-3A62-4AED-B56C-8B36E698F183}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActionTests", "ActionTests\ActionTests.csproj", "{2710B1D3-BF65-4FA1-B79A-3045344FF27E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{0A2EE563-3A62-4AED-B56C-8B36E698F183}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A2EE563-3A62-4AED-B56C-8B36E698F183}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A2EE563-3A62-4AED-B56C-8B36E698F183}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2710B1D3-BF65-4FA1-B79A-3045344FF27E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2710B1D3-BF65-4FA1-B79A-3045344FF27E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2710B1D3-BF65-4FA1-B79A-3045344FF27E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2710B1D3-BF65-4FA1-B79A-3045344FF27E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

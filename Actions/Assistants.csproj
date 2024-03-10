@@ -8,8 +8,4 @@
     <WarningLevel>0</WarningLevel>
   </PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="OpenAi-DotNet" Version="7.7.4" />
-  </ItemGroup>
-
 </Project>

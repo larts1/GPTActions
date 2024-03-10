@@ -105,8 +105,8 @@ public static class WindowsCmdCommand
             }
         };
         process.Start();
-        process.WaitForExit();
         output = process.StandardOutput.ReadToEnd();
         error = process.StandardError.ReadToEnd();
+        process.WaitForExit(TimeSpan.FromSeconds(30));
     }
 }
